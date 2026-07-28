@@ -2,114 +2,100 @@
 
 <div align="center">
 
-![LeetCode](https://img.shields.io/badge/LeetCode-Problems-orange?style=for-the-badge&logo=leetcode)
-![Python](https://img.shields.io/badge/Python-100%25-blue?style=for-the-badge&logo=python)
+![Python](https://img.shields.io/badge/Language-Python-blue?style=for-the-badge&logo=python)
+![LeetCode](https://img.shields.io/badge/Platform-LeetCode-orange?style=for-the-badge&logo=leetcode)
 ![Status](https://img.shields.io/badge/Status-Active-success?style=for-the-badge)
-![License](https://img.shields.io/badge/License-MIT-green?style=for-the-badge)
+![Repository](https://img.shields.io/badge/Repository-LeetCode%20Solutions-black?style=for-the-badge)
 
-A collection of my **LeetCode** solutions written in **Python**.
-
-Improving my problem-solving skills one question at a time. 🚀
+A collection of my accepted **LeetCode** solutions written in **Python**.
 
 </div>
 
 ---
 
-## 📖 About
+## 📌 About
 
-This repository contains my solutions to LeetCode problems across various topics including:
+This repository contains my accepted solutions to LeetCode problems. The solutions are automatically synchronized from LeetCode using **LeetHub**, making it easy to track my coding practice and maintain a history of solved problems.
 
-- 🧮 SQL
-- 📊 Arrays
-- 🔍 Binary Search
-- 🌳 Trees
-- 🔗 Linked Lists
-- 📚 Stacks & Queues
-- 💡 Dynamic Programming
-- ⚡ Greedy Algorithms
-- 🧠 Graphs
-- 🔄 Recursion & Backtracking
-- 📈 Sliding Window
-- 🔢 Hash Maps
-- 🎯 Two Pointers
-- And many more...
+The main purpose of this repository is to:
 
-Each solution is organized according to the LeetCode problem number.
+- Strengthen Data Structures & Algorithms concepts.
+- Prepare for coding interviews.
+- Practice writing clean and efficient code.
+- Track my problem-solving journey.
 
 ---
 
-## 📂 Repository Structure
-
-```
-Problem_Number-Problem_Name/
-│
-├── README.md
-├── solution.py
-└── other required files
-```
-
-Example:
-
-```
-0175-combine-two-tables/
-0176-second-highest-salary/
-0177-nth-highest-salary/
-0182-duplicate-emails/
-...
-```
-
----
-
-## 💻 Language Used
+## 🛠️ Language
 
 - 🐍 Python
 
 ---
 
-## 🎯 Goals
+## 📂 Repository Organization
 
-- Solve LeetCode problems consistently.
-- Improve Data Structures & Algorithms skills.
-- Prepare for coding interviews.
-- Build strong problem-solving abilities.
+Each folder corresponds to a single LeetCode problem.
+
+Example:
+
+```
+0175-combine-two-tables
+0176-second-highest-salary
+0177-nth-highest-salary
+0182-duplicate-emails
+0196-delete-duplicate-emails
+0511-game-play-analysis-i
+...
+```
+
+Folder names follow the format:
+
+```
+Problem Number - Problem Title
+```
+
+---
+
+## 📚 Topics Covered
+
+As I continue solving problems, this repository will include solutions from topics such as:
+
+- Arrays
+- Strings
+- List
+- Pandas
+- Numpy
+- Python
+- Dynamic Programming
+- SQL
+
+---
+
+## 🎯 Purpose
+
+This repository serves as my personal archive of LeetCode solutions and documents my progress in competitive programming and technical interview preparation.
+
+---
+
+## ⚡ Tools Used
+
+- Python 3
+- LeetCode
+- LeetHub
+- Git & GitHub
 
 ---
 
 ## 📈 Progress
 
-✔️ Repository is updated regularly with new solutions.
-
-Current Progress:
-
-- ✅ SQL Problems
-- 🔄 Arrays
-- 🔄 Strings
-- 🔄 Trees
-- 🔄 Graphs
-- 🔄 Dynamic Programming
-- 🔄 Interview Questions
-
----
-
-## 🛠️ Tools
-
-- Python 3
-- LeetCode
-- LeetHub Extension
-- Git & GitHub
-
----
-
-## ⭐ If you find this repository useful
-
-Give it a ⭐ to support the repository.
+I regularly update this repository by solving new LeetCode problems and syncing them through **LeetHub**.
 
 ---
 
 <div align="center">
 
-### Happy Coding! 🚀
+⭐ If you find this repository useful, consider starring it.
 
-**Made with ❤️ by Arjun**
+Happy Coding! 🚀
 
 </div>
